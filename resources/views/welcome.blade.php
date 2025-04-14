@@ -18,14 +18,14 @@
             </x-section-heading>
 
             <div class="mt-6 space-x-1">
-                <x-tag>TAG</x-tag>
-                <x-tag>TAG</x-tag>
-                <x-tag>TAG</x-tag>
-                <x-tag>TAG</x-tag>
-                <x-tag>TAG</x-tag>
-                <x-tag>TAG</x-tag>
-                <x-tag>TAG</x-tag>
-                <x-tag>TAG</x-tag>
+                <x-tag>tag</x-tag>
+                <x-tag>tag</x-tag>
+                <x-tag>tag</x-tag>
+                <x-tag>tag</x-tag>
+                <x-tag>tag</x-tag>
+                <x-tag>tag</x-tag>
+                <x-tag>tag</x-tag>
+                <x-tag>tag</x-tag>
             </div>
         </section>
 
